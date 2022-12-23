@@ -81,4 +81,7 @@ void RetirerElement(LIST *Li,int x)
 		}
 	} 
 }
-void TrierList(LIST*);
+void TrierList(LIST* Li)
+{
+	printf("bonjour mon travail!\n");
+}
